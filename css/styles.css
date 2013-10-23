@@ -36,28 +36,31 @@ a:hover {
 }
 
 .container_image {
-	z-index: 10;
+	
 }
 
 .header {
 	background: none;
 	opacity: .65;
-	z-index: 30;
+	
 }
 
 .me {
 	margin-right: 300px;
 }
 
-.article {
-	background: red;
-	z-index: 30;
+.grid_4
+ {
+	background: none;
+	margin: 100px 0 0 -70px;
+	opacity: .85;
+	position: auto;
 }
 
-h2, p {
-	color: red;
-	font-size: 48px;
-	z-index: 30;
+h2 {
+	color: #fff;
+	font-size: 200px;
+	
 }
 
 
