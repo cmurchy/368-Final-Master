@@ -41,7 +41,7 @@ a:hover {
 
 .header {
 	background: none;
-	margin-left: 300px;
+	margin-right: 300px;
 	opacity: .65;
 	
 	
@@ -51,8 +51,7 @@ a:hover {
 	
 }
 
-.grid_4
- {
+.grid_4 {
 	background: none;
 	margin: 125px 0 0 -150px;
 	opacity: .95;
