@@ -5,6 +5,10 @@ Color Palette
 3rd #E9E9E9, Steady Grey
 4th #BCBCBC, BC
 5th #3299BB, Gamebookers Blue
+
+Possible color changes
+Vitamin C to #D76849
+Gamebookers Blue to #79B3B6
 */
 
 
@@ -14,7 +18,7 @@ img {
 }
 
 li {
-	background: #bcbcbc;
+	background: #79B3B6;
 	float: right;
 	list-style: none;
 	padding: 40px;
@@ -28,7 +32,7 @@ a {
 }
 
 a:hover {
-	color: #3299bb;
+	color: #D76849;
 }
 
 .container_image {
@@ -37,7 +41,7 @@ a:hover {
 
 .header {
 	background: none;
-	opacity: .80;
+	opacity: .65;
 	z-index: 30;
 }
 
