@@ -8,42 +8,50 @@ Color Palette
 */
 
 
+.header {
+	background: none;
+	opacity: .65;
+	z-index: 20;
+}
+
+.home {
+	margin-right: 150px;
+}
+
 img {
 	width: 100%;
 	position: fixed;
-}
-
-li {
-	background: #3299bb;
-	float: right;
-	list-style: none;
-	padding: 40px;
-	margin-top: -20px;
-}
-
-a {
-	text-decoration: none;
-	color: #fff;
-	font-size: 32px;
-}
-
-a:hover {
-	color: #ff9900;
 }
 
 .container_image {
 	z-index: 10;
 }
 
-.header {
-	background: none;
-	opacity: .65;
-	z-index: 30;
+.story {
+	background: red;
+	z-index: 30px;
 }
 
-.me {
-	margin-right: 150px;
+li {
+	background: #3299bb;
+	float: right;
+	list-style: none;
+	padding: 20px;
+	margin-top: -20px;
 }
 
+a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+}
 
+p {
+	color: white;
+	font-size: 18px;
+}
+
+a:hover {
+	color: #ff9900;
+}
 
