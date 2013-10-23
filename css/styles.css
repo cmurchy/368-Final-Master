@@ -14,7 +14,7 @@ img {
 }
 
 li {
-	background: #3299bb;
+	background: #bcbcbc;
 	float: right;
 	list-style: none;
 	padding: 40px;
@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-	color: #ff9900;
+	color: #3299bb;
 }
 
 .container_image {
@@ -37,17 +37,23 @@ a:hover {
 
 .header {
 	background: none;
-	opacity: .65;
+	opacity: .80;
 	z-index: 30;
 }
 
 .me {
-	margin-right: 150px;
+	margin-right: 250px;
 }
 
 .article {
 	background: red;
-	z-index: 50;
+	z-index: 30;
+}
+
+h2, p {
+	color: red;
+	font-size: 48px;
+	z-index: 30;
 }
 
 
