@@ -41,25 +41,27 @@ a:hover {
 
 .header {
 	background: none;
+	margin-left: 300px;
 	opacity: .65;
 	
 }
 
 .me {
-	margin-right: 300px;
+	
 }
 
 .grid_4
  {
 	background: none;
-	margin: 100px 0 0 -70px;
+	margin: 125px 0 0 -150px;
 	opacity: .85;
 	position: relative;
 }
 
 h2 {
 	color: #fff;
-	font-size: 200px;
+	font-size: 275px;
+	line-height: 90%;
 	
 }
 
