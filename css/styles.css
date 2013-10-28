@@ -47,7 +47,13 @@ a:hover {
 	
 }
 
-.me {
+#header {
+	background: none;
+	margin-right: 10px;
+	opacity: .65;
+}
+
+#me {
 	
 }
 
@@ -57,12 +63,35 @@ a:hover {
 	opacity: .95;
 }
 
-h2 {
-	color: #fff;
-	font-size: 275px;
-	line-height: 90%;
-	
+#name {
+	font-size: 100px;
+	margin-left: 350px;
 }
 
 
+h2 {
+	color: #fff;
+	font-size: 275px;
+	line-height: 38%;
+	margin-left: 200px;
+}
 
+.grid_9 {
+	 align: center;
+	 background-color: #e9e9e9;
+	 margin: 150px 0 0 0;
+	 opacity: .95;
+ }
+
+#mystory {
+	color: #79B3B6;
+	font-size: 110px;
+	line-height: 95%;
+}
+
+#bio {
+	color: #666;
+	font-size: 24px;
+	padding: 50px;
+	
+}
