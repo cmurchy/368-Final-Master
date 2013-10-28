@@ -68,6 +68,7 @@ a:hover {
 
 
 h2 {
+	border:1px solid #79b3b6;
 	color: #fff;
 	font-size: 275px;
 	line-height: 38%;
