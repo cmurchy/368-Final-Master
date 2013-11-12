@@ -55,12 +55,20 @@ a:hover {
 
 
 
-.grid_4 {
+/*.grid_4 {
 	background: none;
 	margin: 125px 0 0 -150px;
 	opacity: .95;
-}
+}*/
 
+.grid_4 {
+	height: 350px;
+	width: 550px;
+}
+	
+	
+	
+	
 #name {
 	font-size: 100px;
 	margin-left: 350px;
